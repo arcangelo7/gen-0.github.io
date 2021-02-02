@@ -255,11 +255,11 @@ A summary table of the produced mashup datasets is shown below.
 
 <td>Labour force</td>
 
-<td>[labour.xml](data/xml/labour.xml)</td>
+<td>[labour.xml](https://github.com/gen-0/gen-0.github.io/blob/main/data/xml/labour.xml)</td>
 
-<td>[labour.json](data/json/labour.json)</td>
+<td>[labour.json](https://github.com/gen-0/gen-0.github.io/blob/main/data/json/labour.json)</td>
 
-<td>[labour.csv](data/csv/labour.csv)</td>
+<td>[labour.csv](https://github.com/gen-0/gen-0.github.io/blob/main/data/csv/labour.csv)</td>
 
 </tr>
 
@@ -267,11 +267,11 @@ A summary table of the produced mashup datasets is shown below.
 
 <td>Life expectancy</td>
 
-<td>[health_life_expectancy.xml](data/xml/health_life_expectancy.xml)</td>
+<td>[health_life_expectancy.xml](https://github.com/gen-0/gen-0.github.io/blob/main/data/xml/health_life_expectancy.xml)</td>
 
-<td>[health_life_expectancy.json](data/json/health_life_expectancy.json)</td>
+<td>[health_life_expectancy.json](https://github.com/gen-0/gen-0.github.io/blob/main/data/json/health_life_expectancy.json)</td>
 
-<td>[health_life_expectancy.csv](data/csv/health_life_expectancy.csv)</td>
+<td>[health_life_expectancy.csv](https://github.com/gen-0/gen-0.github.io/blob/main/data/csv/health_life_expectancy.csv)</td>
 
 </tr>
 
@@ -279,11 +279,11 @@ A summary table of the produced mashup datasets is shown below.
 
 <td>Causes of mortality</td>
 
-<td>[health_death_causes.xml](data/xml/health_death_causes.xml)</td>
+<td>[health_death_causes.xml](https://github.com/gen-0/gen-0.github.io/blob/main/data/xml/health_death_causes.xml)</td>
 
-<td>[health_death_causes.json](data/json/health_death_causes.json)</td>
+<td>[health_death_causes.json](https://github.com/gen-0/gen-0.github.io/blob/main/data/json/health_death_causes.json)</td>
 
-<td>[health_death_causes.csv](data/csv/health_death_causes.csv)</td>
+<td>[health_death_causes.csv](https://github.com/gen-0/gen-0.github.io/blob/main/data/csv/health_death_causes.csv)</td>
 
 </tr>
 
@@ -291,11 +291,11 @@ A summary table of the produced mashup datasets is shown below.
 
 <td>Gender paygap</td>
 
-<td>[paygap.xml](data/xml/paygap.xml)</td>
+<td>[paygap.xml](https://github.com/gen-0/gen-0.github.io/blob/main/data/xml/paygap.xml)</td>
 
-<td>[paygap.json](data/json/paygap.json)</td>
+<td>[paygap.json](https://github.com/gen-0/gen-0.github.io/blob/main/data/json/paygap.json)</td>
 
-<td>[paygap.csv](data/csv/paygap.csv)</td>
+<td>[paygap.csv](https://github.com/gen-0/gen-0.github.io/blob/main/data/csv/paygap.csv)</td>
 
 </tr>
 
@@ -303,11 +303,11 @@ A summary table of the produced mashup datasets is shown below.
 
 <td>Childcare</td>
 
-<td>[chilcare.xml](data/xml/chilcare.xml)</td>
+<td>[chilcare.xml](https://github.com/gen-0/gen-0.github.io/blob/main/data/xml/chilcare.xml)</td>
 
-<td>[chilcare.json](data/json/chilcare.json)</td>
+<td>[chilcare.json](https://github.com/gen-0/gen-0.github.io/blob/main/data/json/chilcare.json)</td>
 
-<td>[chilcare.csv](data/csv/chilcare.csv)</td>
+<td>[chilcare.csv](https://github.com/gen-0/gen-0.github.io/blob/main/data/csv/chilcare.csv)</td>
 
 </tr>
 
@@ -315,11 +315,11 @@ A summary table of the produced mashup datasets is shown below.
 
 <td>Digital economy</td>
 
-<td>[digital.xml](data/xml/digital.xml)</td>
+<td>[digital.xml](https://github.com/gen-0/gen-0.github.io/blob/main/data/xml/digital.xml)</td>
 
-<td>[digital.json](data/json/digital.json)</td>
+<td>[digital.json](https://github.com/gen-0/gen-0.github.io/blob/main/data/json/digital.json)</td>
 
-<td>[digital.csv](data/csv/digital.csv)</td>
+<td>[digital.csv](https://github.com/gen-0/gen-0.github.io/blob/main/data/csv/digital.csv)</td>
 
 </tr>
 
@@ -327,11 +327,11 @@ A summary table of the produced mashup datasets is shown below.
 
 <td>Education</td>
 
-<td>[education.xml](data/xml/education.xml)</td>
+<td>[education.xml](https://github.com/gen-0/gen-0.github.io/blob/main/data/xml/education.xml)</td>
 
-<td>[education.json](data/json/education.json)</td>
+<td>[education.json](https://github.com/gen-0/gen-0.github.io/blob/main/data/json/education.json)</td>
 
-<td>[education.csv](data/csv/education.csv)</td>
+<td>[education.csv](https://github.com/gen-0/gen-0.github.io/blob/main/data/csv/education.csv)</td>
 
 </tr>
 
