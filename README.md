@@ -236,107 +236,54 @@ The principles mentioned above include three types of entities: data, metadata a
 A summary table of the produced mashup datasets is shown below.
 
 <table class="table table-striped">
-
-<tbody>
-
-<tr>
-
-<th>Domain</th>
-
-<th>XML/SDMX-ML</th>
-
-<th>JSON</th>
-
-<th>CSV</th>
-
-</tr>
-
-<tr>
-
-<td>Labour force</td>
-
-<td>[labour.xml](https://github.com/gen-0/gen-0.github.io/blob/main/data/xml/labour.xml)</td>
-
-<td>[labour.json](https://github.com/gen-0/gen-0.github.io/blob/main/data/json/labour.json)</td>
-
-<td>[labour.csv](https://github.com/gen-0/gen-0.github.io/blob/main/data/csv/labour.csv)</td>
-
-</tr>
-
-<tr>
-
-<td>Life expectancy</td>
-
-<td>[health_life_expectancy.xml](https://github.com/gen-0/gen-0.github.io/blob/main/data/xml/health_life_expectancy.xml)</td>
-
-<td>[health_life_expectancy.json](https://github.com/gen-0/gen-0.github.io/blob/main/data/json/health_life_expectancy.json)</td>
-
-<td>[health_life_expectancy.csv](https://github.com/gen-0/gen-0.github.io/blob/main/data/csv/health_life_expectancy.csv)</td>
-
-</tr>
-
-<tr>
-
-<td>Causes of mortality</td>
-
-<td>[health_death_causes.xml](https://github.com/gen-0/gen-0.github.io/blob/main/data/xml/health_death_causes.xml)</td>
-
-<td>[health_death_causes.json](https://github.com/gen-0/gen-0.github.io/blob/main/data/json/health_death_causes.json)</td>
-
-<td>[health_death_causes.csv](https://github.com/gen-0/gen-0.github.io/blob/main/data/csv/health_death_causes.csv)</td>
-
-</tr>
-
-<tr>
-
-<td>Gender paygap</td>
-
-<td>[paygap.xml](https://github.com/gen-0/gen-0.github.io/blob/main/data/xml/paygap.xml)</td>
-
-<td>[paygap.json](https://github.com/gen-0/gen-0.github.io/blob/main/data/json/paygap.json)</td>
-
-<td>[paygap.csv](https://github.com/gen-0/gen-0.github.io/blob/main/data/csv/paygap.csv)</td>
-
-</tr>
-
-<tr>
-
-<td>Childcare</td>
-
-<td>[chilcare.xml](https://github.com/gen-0/gen-0.github.io/blob/main/data/xml/chilcare.xml)</td>
-
-<td>[chilcare.json](https://github.com/gen-0/gen-0.github.io/blob/main/data/json/chilcare.json)</td>
-
-<td>[chilcare.csv](https://github.com/gen-0/gen-0.github.io/blob/main/data/csv/chilcare.csv)</td>
-
-</tr>
-
-<tr>
-
-<td>Digital economy</td>
-
-<td>[digital.xml](https://github.com/gen-0/gen-0.github.io/blob/main/data/xml/digital.xml)</td>
-
-<td>[digital.json](https://github.com/gen-0/gen-0.github.io/blob/main/data/json/digital.json)</td>
-
-<td>[digital.csv](https://github.com/gen-0/gen-0.github.io/blob/main/data/csv/digital.csv)</td>
-
-</tr>
-
-<tr>
-
-<td>Education</td>
-
-<td>[education.xml](https://github.com/gen-0/gen-0.github.io/blob/main/data/xml/education.xml)</td>
-
-<td>[education.json](https://github.com/gen-0/gen-0.github.io/blob/main/data/json/education.json)</td>
-
-<td>[education.csv](https://github.com/gen-0/gen-0.github.io/blob/main/data/csv/education.csv)</td>
-
-</tr>
-
-</tbody>
-
+  <tr>
+    <th>Domain</th>
+    <th>XML/SDMX-ML</th>
+    <th>JSON</th>
+    <th>CSV</th>
+  </tr>
+  <tr>
+    <td>Labour force</td>
+    <td><a href="https://github.com/gen-0/gen-0.github.io/blob/main/data/xml/labour.xml" target="_blank" alt="labour.xml file">labour.xml</a></td>
+    <td><a href="https://github.com/gen-0/gen-0.github.io/blob/main/data/json/labour.json" target="_blank" alt="labour.json file">labour.json</a></td>
+    <td><a href="https://github.com/gen-0/gen-0.github.io/blob/main/data/csv/labour.csv" target="_blank" alt="labour.csv file">labour.csv</a></td>
+  </tr>
+  <tr>
+    <td>Life expectancy</td>
+    <td><a href="https://github.com/gen-0/gen-0.github.io/blob/main/data/xml/health_life_expectancy.xml" target="_blank" alt="health_life_expectancy.xml file">health_life_expectancy.xml</a></td>
+    <td><a href="https://github.com/gen-0/gen-0.github.io/blob/main/data/json/health_life_expectancy.json" target="_blank" alt="health_life_expectancy.json file">health_life_expectancy.json</a></td>
+    <td><a href="https://github.com/gen-0/gen-0.github.io/blob/main/data/csv/health_life_expectancy.csv" target="_blank" alt="health_life_expectancy.csv file">health_life_expectancy.csv</a></td>
+  </tr>
+  <tr>
+    <td>Causes of mortality</td>
+    <td><a href="https://github.com/gen-0/gen-0.github.io/blob/main/data/xml/health_death_causes.xml" target="_blank" alt="health_death_causes.xml file">health_death_causes.xml</a></td>
+    <td><a href="https://github.com/gen-0/gen-0.github.io/blob/main/data/json/health_death_causes.json" target="_blank" alt="health_death_causes.json file">health_death_causes.json</a></td>
+    <td><a href="https://github.com/gen-0/gen-0.github.io/blob/main/data/csv/health_death_causes.csv" target="_blank" alt="health_death_causes.csv file">health_death_causes.csv</a></td>
+  </tr>
+  <tr>
+    <td>Gender paygap</td>
+    <td><a href="https://github.com/gen-0/gen-0.github.io/blob/main/data/xml/paygap.xml" target="_blank" alt="paygap.xml file">paygap.xml</a></td>
+    <td><a href="https://github.com/gen-0/gen-0.github.io/blob/main/data/json/paygap.json" target="_blank" alt="paygap.json file">paygap.json</a></td>
+    <td><a href="https://github.com/gen-0/gen-0.github.io/blob/main/data/csv/paygap.csv" target="_blank" alt="paygap.csv file">paygap.csv</a></td>
+  </tr>
+  <tr>
+    <td>Childcare</td>
+    <td><a href="https://github.com/gen-0/gen-0.github.io/blob/main/data/xml/chilcare.xml" target="_blank" alt="chilcare.xml file">chilcare.xml</a></td>
+    <td><a href="https://github.com/gen-0/gen-0.github.io/blob/main/data/json/chilcare.json" target="_blank" alt="chilcare.json file">chilcare.json</a></td>
+    <td><a href="https://github.com/gen-0/gen-0.github.io/blob/main/data/csv/chilcare.csv" target="_blank" alt="chilcare.csv file">chilcare.csv</a></td>
+  </tr>
+  <tr>
+    <td>Digital economy</td>
+    <td><a href="https://github.com/gen-0/gen-0.github.io/blob/main/data/xml/digital.xml" target="_blank" alt="digital.xml file">digital.xml</a></td>
+    <td><a href="https://github.com/gen-0/gen-0.github.io/blob/main/data/json/digital.json" target="_blank" alt="digital.json file">digital.json</a></td>
+    <td><a href="https://github.com/gen-0/gen-0.github.io/blob/main/data/csv/digital.csv" target="_blank" alt="digital.csv file">digital.csv</a></td>
+  </tr>
+  <tr>
+    <td>Education</td>
+    <td><a href="https://github.com/gen-0/gen-0.github.io/blob/main/data/xml/education.xml" target="_blank" alt="education.xml file">education.xml</a></td>
+    <td><a href="https://github.com/gen-0/gen-0.github.io/blob/main/data/json/education.json" target="_blank" alt="education.json file">education.json</a></td>
+    <td><a href="https://github.com/gen-0/gen-0.github.io/blob/main/data/csv/education.csv" target="_blank" alt="education.csv file">education.csv</a></td>
+  </tr>
 </table>
 
 * * *
