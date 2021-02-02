@@ -268,9 +268,9 @@ A summary table of the produced mashup datasets is shown below.
   </tr>
   <tr>
     <td>Childcare</td>
-    <td><a href="https://github.com/gen-0/gen-0.github.io/blob/main/data/xml/chilcare.xml" target="_blank" alt="chilcare.xml file">chilcare.xml</a></td>
-    <td><a href="https://github.com/gen-0/gen-0.github.io/blob/main/data/json/chilcare.json" target="_blank" alt="chilcare.json file">chilcare.json</a></td>
-    <td><a href="https://github.com/gen-0/gen-0.github.io/blob/main/data/csv/chilcare.csv" target="_blank" alt="chilcare.csv file">chilcare.csv</a></td>
+    <td><a href="https://github.com/gen-0/gen-0.github.io/blob/main/data/xml/childcare.xml" target="_blank" alt="childcare.xml file">childcare.xml</a></td>
+    <td><a href="https://github.com/gen-0/gen-0.github.io/blob/main/data/json/childcare.json" target="_blank" alt="childcare.json file">childcare.json</a></td>
+    <td><a href="https://github.com/gen-0/gen-0.github.io/blob/main/data/csv/childcare.csv" target="_blank" alt="childcare.csv file">childcare.csv</a></td>
   </tr>
   <tr>
     <td>Digital economy</td>
