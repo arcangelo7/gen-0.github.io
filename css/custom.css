@@ -123,6 +123,12 @@ figure {
   transition: background 0.2s ease-in-out;
 }
 
+.back-to-top:focus {
+	color: #fff;
+	background: #92e3a9;
+	transition: background 0.2s ease-in-out;
+  }
+
 #backtotop span.ion-arrow-up-c {
 	position: fixed;
 	font-size: 30px;
