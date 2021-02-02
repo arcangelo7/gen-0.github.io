@@ -2,7 +2,7 @@
 
 **Gen**O project has been carried out for the exam Open Access and Digital Ethics of Digital Humanities and Digital Knowledge course at the University of Bologna. The aim of the project is the analysis and the further re-use of open access datasets, in order to find some kind of new knowledge reachable through the mashup of the original data.
 
-You can directly consult our GitHub repository [**here**](https://github.com/arcangelo7/open-access/blob/main/README.md).
+You can directly consult our GitHub repository [**here**](https://github.com/gen-0/gen-0.github.io).
 
 * * *
 
@@ -20,7 +20,7 @@ Gender equality is a broad term that involves a lot of factors: in order to bett
 
 ### General Analysis
 
-To see the entire explanatory table about the general analysis click [here](GenO - General Analysis.pdf).
+To see the entire explanatory table about the general analysis click [here](https://github.com/gen-0/gen-0.github.io/blob/main/GenO%20-%20General%20Analysis.pdf).
 
 * * *
 
@@ -69,7 +69,7 @@ The dataset provides only the description of the indicator, and then there is th
 
 ### Legal analysis
 
-To see the complete table about the legal checklist click [here](GenO - Legal Checklist.pdf)
+To see the complete table about the legal checklist click [here](https://github.com/gen-0/gen-0.github.io/blob/main/GenO%20-%20Legal%20Checklist.pdf)
 
 The data we collected derive from different sources that use different licences. Therefore, we looked for the licence used by every source. Moreover, there are other aspects to be considered in order to do a proper legal analysis of the dataset: transparency, mention of the specific legal regulation, privacy, liability, point of contact. Leading with these aspect is important to improve the reliability of the publisher to the eyes of any stakeholder.
 
@@ -91,7 +91,7 @@ The data we collected derive from different sources that use different licences.
 
 ### Ethical analysis
 
-![Principles of Data Ethics](Principles of Data Ethics.png)  
+![Principles of Data Ethics](https://github.com/gen-0/gen-0.github.io/blob/main/Principles%20of%20Data%20Ethics.png)  
 
 For our ethical analysis, we took in consideration the main aspects and principles of data ethics: the importance of the human being, transparency, accountability, equality. In addition, we analyzed also if our dataset were free from cognitive bias. We relied on two documents: [Data Ethics: Principles and Guidelines for Companies, Authorities & Organisations](https://dataethics.eu/data-ethics-principles/) and [Data Ethics Framework by UK Government.](https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework-legislation-and-codes-of-practice-for-use-of-data)
 
