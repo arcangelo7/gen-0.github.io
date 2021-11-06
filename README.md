@@ -2,8 +2,6 @@
 
 **Gen**O project has been carried out for the exam Open Access and Digital Ethics of Digital Humanities and Digital Knowledge course at the University of Bologna. The aim of the project is the analysis and the further re-use of open access datasets, in order to find some kind of new knowledge reachable through the mashup of the original data.
 
-You can directly consult our GitHub repository [**here**](https://github.com/gen-0/gen-0.github.io).
-
 * * *
 
 ### Introduction
